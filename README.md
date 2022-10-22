@@ -1,6 +1,6 @@
 
 # Heyo! I'm Safwan 😁
-![1](https://i.imgur.com/YCe8Rny.jpg)
+<a href="https://behance.net/safwanyp"><img src="https://i.imgur.com/YCe8Rny.jpg"></a> 
 I'm a web and mobile apps developer. In my free time, I like to play Valorant or design random things. 
 ___
 #### My current expertise in development and design includes

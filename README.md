@@ -12,5 +12,3 @@ When I'm not pulling out my hair due to work related stuff, I'm pulling it becau
 That last one is not so much of a reason to pull my hair out, but ya know, gotta be dramatic.
 
 Thank you for reading! Here's an emoji of slice of a cake for the journey that lies ahead 🍰
-
-[![AI Manifesto Signee](https://ai-manifesto.dev/badge.svg)](https://ai-manifesto.dev)
